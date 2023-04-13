@@ -19,4 +19,5 @@ public Compte ajouterCompte(Compte cp);
 	public void faireUnRetrait(Long code, double mt);
 	
 	public void faireUnVirement(Long cp1, Long cp2,double mt);
+
 }
